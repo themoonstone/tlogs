@@ -1,0 +1,49 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Aulh7C5SVOA4Jzt5eHNH6197Mbk=",
+			"path": "github.com/konsorten/go-windows-terminal-sequences",
+			"revision": "f55edac94c9bbba5d6182a4be46d86a2c9b5b50e",
+			"revisionTime": "2019-02-26T22:47:05Z"
+		},
+		{
+			"checksumSHA1": "Zb9hyuDuhy4VqoSvZPM85qWwT3s=",
+			"path": "github.com/lestrrat-go/file-rotatelogs",
+			"revision": "e0a88b0fe8408240e1560882fc17cb0bf66765cd",
+			"revisionTime": "2019-07-18T00:03:51Z"
+		},
+		{
+			"checksumSHA1": "kCiYjWVsI7JrUA9SogAebi2cp00=",
+			"path": "github.com/lestrrat-go/file-rotatelogs/internal/option",
+			"revision": "e0a88b0fe8408240e1560882fc17cb0bf66765cd",
+			"revisionTime": "2019-07-18T00:03:51Z"
+		},
+		{
+			"checksumSHA1": "axIEoJw10GBpjx+yzYay7A/IeQI=",
+			"path": "github.com/lestrrat-go/strftime",
+			"revision": "5c849dd2c51dd10faf5f1b86abec2db1ac3b9101",
+			"revisionTime": "2019-07-25T01:19:45Z"
+		},
+		{
+			"checksumSHA1": "I7hloldMJZTqUx6hbVDp5nk9fZQ=",
+			"path": "github.com/pkg/errors",
+			"revision": "27936f6d90f9c8e1145f11ed52ffffbfdb9e0af7",
+			"revisionTime": "2019-02-27T00:00:51Z"
+		},
+		{
+			"checksumSHA1": "+enshrlE9AS7iFQTrtHNWj4wAFw=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "07a84ee7412e7a28663d92930a1d46f81b124ee1",
+			"revisionTime": "2019-07-01T14:35:06Z"
+		},
+		{
+			"checksumSHA1": "op9XYhmW8aNLoZVpobNzhbu0mQw=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "f460065e899abee61eb86816fd1fd684ea5a0f26",
+			"revisionTime": "2019-09-08T12:33:06Z"
+		}
+	],
+	"rootPath": "github.com/themoonstone/tlogs"
+}
